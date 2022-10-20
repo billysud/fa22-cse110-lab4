@@ -1,4 +1,4 @@
-# Lab 4 Q18 
+# Lab 4 Q18 part2
 function printTime(){
   let d = new Date();
   let time = d.toLocaleTimeString();
