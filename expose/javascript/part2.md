@@ -33,6 +33,6 @@
 16. Check other file.
 17. This code will result in doubling the contents inside the array. The callback in the for loop is saying there will be a function call here so looking at the parameter the function is doSomething which multiplies the argument by 2. Thus for every element in the given array we push into newArr the modified (by the doSomething function) value.
 18. Check other file.
-19. 
+19. 1; 4; 3; 2;
     
     
